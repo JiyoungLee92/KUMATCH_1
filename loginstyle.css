@@ -1,0 +1,48 @@
+
+.login_box {
+  position: absolute;
+  margin: 10px;
+  height: 500px;
+  width: 60%;
+  border-color: yellow;
+  border-style: double;
+  top: 150px;
+  left: 280px;
+}
+
+.login_inbox{
+  position: absolute;
+  height: 300px;
+  width: 70%;
+  border-color: yellow;
+  border-style: double;
+  top: 80px;
+  left: 100px;
+
+}
+
+.login_idpw{
+  position: absolute;
+  height: 120px;
+  width: 60%;
+  border-color: yellow;
+  border-style: double;
+  top: 80px;
+  left: 100px;
+
+}
+
+#login_but{
+  position: absolute;
+  width : 150px;
+  color : blue;
+  height : 30px;
+  top : 230px;
+  left : 120px;
+}
+
+.pw_forget{
+  position: absolute;
+  top : 550px;
+  left : 470px
+}
